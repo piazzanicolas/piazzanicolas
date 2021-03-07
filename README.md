@@ -27,5 +27,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nicopiazza/"></a>
+<a href="https://www.linkedin.com/in/nicopiazza/">LinkedIn</a>
 </p>
