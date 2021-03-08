@@ -2,10 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new 
-- 🎓 &nbsp; Studying
-- 💼 &nbsp; Working as
-- 🌱 &nbsp; Learning more about
+- 🤔 &nbsp; Exploring new technologies and programming
+- 🎓 &nbsp; Food engineer
+- 🌱 &nbsp; Learning more about data science and machine learning
 
 <h3> 🛠 &nbsp;Tech Stack Data Science</h3>
 
