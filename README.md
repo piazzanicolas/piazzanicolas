@@ -7,13 +7,17 @@
 - 💼 &nbsp; Working as
 - 🌱 &nbsp; Learning more about
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stack Data Science</h3>
 
-- 💻 &nbsp; Python | Javascript
+- 💻 &nbsp; Python
+- 🔧 &nbsp; Jupyter Lab | Pandas | Seaborn | Scikit-Learn
+
+<h3> 🛠 &nbsp;Tech Stack FullStack</h3>
+
+- 💻 &nbsp; Javascript
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | React.js
 - 🛢 &nbsp; MySQL
-- ⚙️ &nbsp; GitHub
-- 🔧 &nbsp; Visual Studio Code | Jupyter Lab
+- 🔧 &nbsp; Visual Studio Code
 
 <br/>
 
