@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and programming
-- 🎓 &nbsp; Food engineer
+- 🎓 &nbsp; Food Engineer
 - 🌱 &nbsp; Learning more about data science and machine learning
 
 <h3> 🛠 &nbsp;Tech Stack Data Science</h3>
