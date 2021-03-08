@@ -9,7 +9,8 @@
 <h3> 🛠 &nbsp;Tech Stack Data Science</h3>
 
 - 💻 &nbsp; Python
-- 🔧 &nbsp; Jupyter Lab | Pandas | Seaborn | Scikit-Learn
+- 🌐 &nbsp; Numpy | Pandas | Seaborn | Scikit-Learn
+- 🔧 &nbsp; Jupyter Lab
 
 <h3> 🛠 &nbsp;Tech Stack FullStack</h3>
 
